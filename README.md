@@ -229,7 +229,6 @@ FROM pivoted;
 - **Non-Adopters:** 3,411  
 
 **Feature Usage Breakdown:**
-NOTE FEATURE CHART HERE
 
 - Custom Themes: 35.13%  
 - Voice Assistant: 33.23%  
