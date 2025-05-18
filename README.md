@@ -295,8 +295,11 @@ FROM pivoted;
 ---
 
 ### **Insight 2: Adopters Churn More**
-
-NOTE: THE PLAN CHANGE CHART SHOULD BE HERE
+<figure>
+  <img src="https://github.com/sylviawut/Colume_Project/blob/main/plan%20change%20by%20cohort.jpg" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Plan Change</figcaption>
+</figure>
+</br></br>
 
 - 5.7% of adopters churned vs. 1.8% of non-adopters  
 
