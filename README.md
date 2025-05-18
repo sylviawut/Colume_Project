@@ -268,7 +268,7 @@ FROM pivoted;
 
 ### **Insight 1: Early Adoption Improves Retention**
 
-NOTE: RENTENTION TREND CHRT HERE
+![Weekly Retention Rate](https://github.com/sylviawut/Colume_Project/blob/main/weekly%20retention%20rate.jpg)
 
 - Week 1 retention: 93.48% (Adopters) vs 53.67% (Non-Adopters)  
 - Week 6 retention: 70.92% vs 42.12%  
