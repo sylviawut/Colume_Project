@@ -8,7 +8,7 @@
 ## Brief Details about the project
 **Project Duration:** February – April 2025  
 **Prepared by:** Analytics Team  
-**Primary Stakeholder:** Product Team 
+**Primary Stakeholder:** Product Team  
 
 ## 1. Project Overview
 In February 2025, Colume launched three new features:  
