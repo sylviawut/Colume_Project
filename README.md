@@ -10,7 +10,7 @@
 **Prepared by:** Analytics Team  
 **Primary Stakeholder:** Product Team 
 
-## 🔍 1. Project Overview
+## 1. Project Overview
 In February 2025, Colume launched three new features:  
 
 * Custom Themes
