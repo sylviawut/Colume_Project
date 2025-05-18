@@ -1,6 +1,10 @@
 # Colume Feature Adoption & Retention Analysis
 -----
 
+## Table of Content
+1. [Brief Details about the project](#Brief-Details-about-the-project)
+2. [🔍 1. Project Overview](#🔍-1-Project-Overview)
+
 ## Brief Details about the project
 **Project Duration:** February – April 2025  
 **Prepared by:** Analytics Team  
