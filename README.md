@@ -9,8 +9,8 @@
 ## 🔍 1. Project Overview
 In February 2025, Colume launched three new features:  
 
-* Custom Themes  
-- Voice Assistant  
+* Custom Themes
+- Voice Assistant
 + Task Reminders
 
 This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
