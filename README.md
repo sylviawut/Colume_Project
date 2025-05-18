@@ -273,9 +273,8 @@ FROM pivoted;
 <figure>
   <img src="https://github.com/sylviawut/Colume_Project/blob/main/weekly%20retention%20rate.jpg" width=100% height=100% alt="alt text">
   <figcaption>Figure: Weekly Retention Rate</figcaption>
-</figure>  
-
-<!--- </br></br>   --->
+</figure>
+</br></br>
 
 - Week 1 retention: 93.48% (Adopters) vs 53.67% (Non-Adopters)  
 - Week 6 retention: 70.92% vs 42.12%  
