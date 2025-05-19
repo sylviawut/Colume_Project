@@ -272,8 +272,6 @@ FROM pivoted;
 
 ### **Insight 1: Early Adoption Improves Retention**
 
-![Weekly Retention Rate](https://github.com/sylviawut/Colume_Project/blob/main/weekly%20retention%20rate.jpg)
-
 <figure>
   <img src="https://github.com/sylviawut/Colume_Project/blob/main/weekly%20retention%20rate.jpg" width=100% height=100% alt="alt text">
   <figcaption>Figure: Weekly Retention Rate</figcaption>
